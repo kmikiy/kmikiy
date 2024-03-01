@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Miklós</h1>
 
 - 🔭 I’m currently working at [Wallz | 3D Virtual Tours](https://wallz.io)
+- 🎹 Creator of [SpotMenu](https://github.com/kmikiy/SpotMenu)
 - 📫 You can reach me at **m.kristyan@gmail.com**
 
 <h3 align="left">Languages and Tools</h3>
