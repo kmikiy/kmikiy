@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Miklós (Michael)</h1>
+<h1 align="left">Hi 👋, I'm Miklós</h1>
 
 🔭 I’m currently working at [Wallz | 3D Virtual Tours](https://wallz.io)
 
